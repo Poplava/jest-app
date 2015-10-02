@@ -1,0 +1,16 @@
+{
+  "name": "jest-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jest-cli": "^0.5.8",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
